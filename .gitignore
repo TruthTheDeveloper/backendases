@@ -1,0 +1,21 @@
+# Node.js files
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# macOS files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# Compiled files
+*.log
+*.bak
+*.lock
+*.sqlite
+
+# Dependency directories
+pypi/
+venv/
